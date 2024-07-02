@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194810092100",
+    "project_id": "dutycraft-c4e35",
+    "storage_bucket": "dutycraft-c4e35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194810092100:android:a979dd5cbdbea0398a7a11",
+        "android_client_info": {
+          "package_name": "com.example.dutycraft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9D6-Wg8A85IKd0W1A4ALo-XOx4t9TnYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

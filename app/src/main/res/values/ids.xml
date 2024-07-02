@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_signInFragment_to_homeFragment" type="id" />
+    <item name="action_signInFragment_to_signUpFragment" type="id" />
+    <item name="action_signUpFragment_to_homeFragment" type="id" />
+    <item name="action_splashFragment_to_homeFragment" type="id" />
+    <item name="action_splashFragment_to_signInFragment" type="id" />
+</resources>
